@@ -1,0 +1,5 @@
+baseURL = 'https://git.iguru.gr/'
+languageCode = 'en-us'
+title = 'iGuRu.gr git'
+theme = "hugo-theme-pure"
+publishDir = "docs"
